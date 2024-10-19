@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr"
-title                    : "Clémentine Bleuze / Site Title"
+locale                   : "en-US"
+title                    : "Clémentine Bleuze / Personal Page"
 title_separator          : "-"
 name                     : &name "Clémentine Bleuze"
-description              : &description "Doctorante au Loria (Université de Lorraine)"
+description              : &description "PhD Student in NLP, working in Loria, Université de Lorraine (Nancy, France)."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Clémentine Bleuze"
+  pronouns         : "she/her" # example: "she/her"  
+  bio              : "PhD Student in NLP, working in Loria"
+  location         : "Nancy, France"
+  employer         : "Université de Lorraine"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "clementine.bleuze@univ-lorraine.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

@@ -4,6 +4,6 @@ collection: teaching
 type: "L2 MIASHS"
 permalink: /teaching/2024-TD-DTDL
 venue: "IDMC, Université de Lorraine"
-date: 2024
+date: 2024-01-01
 location: "Nancy, France"
 ---

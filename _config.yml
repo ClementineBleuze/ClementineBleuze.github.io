@@ -8,22 +8,22 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Clémentine Bleuze / My Personal Page"
+title                    : "Welcome on Clémentine Bleuze's personal page"
 title_separator          : "-"
 name                     : &name "Clémentine Bleuze"
 description              : &description "Description."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ClementineBleuze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ClementineBleuze/ClementineBleuze.github.io" # the GitHub repository for your site
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpg" 
   name             : "Clémentine Bleuze"
-  pronouns         : "she/her" # example: "she/her"  
+  pronouns         : "She/her" # example: "she/her"  
   bio              : "PhD Student (NLP) at Loria, Université de Lorraine"
   location         : "Nancy, France"
   employer         : "Université de Lorraine"

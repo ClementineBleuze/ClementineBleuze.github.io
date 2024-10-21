@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-To be included.
+This page is currently under construction.

@@ -6,22 +6,29 @@ author_profile: true
 ---
 {% include base_path %}
 
-You will find below the list of my academic teaching experiences.
+You will find below the list of my academic teaching experiences:
 
-# 2024-2025
+## 2025-2026
 
-## Semester 1
+### Semester 1
+- (fr) **Découverte du Traitement des Données Langagières (15h - tutorials)** - L2 MIASHS, IDMC (Nancy), Université de Lorraine.
+- (en) **Ethics for NLP (7h - tutorials)** - M1 NLP, IDMC (Nancy), Université de Lorraine.
+- (en) **Written corpora(6h - tutorials)** - M1 NLP, IDMC (Nancy), Université de Lorraine.
 
-### Découverte du Traitement des Données Langagières (TD)
+### Semester 2
+- (fr) **De l'écrit à l'information (4h - tutorials)** - L1 MIASHS, IDMC (Nancy), Université de Lorraine.
+- (en) **Fundamental computer science for NLP (20h - courses & tutorials)** - M1 NLP, IDMC (Nancy), Université de Lorraine.
 
-L2 MIASHS, Institut des Sciences du Digital, Management et Cognition (IDMC), Université de Lorraine, Nancy. 15h.
+## 2024-2025
 
-Introduction to basic notions of NLP (definition of NLP, regular expressions, named entities, tagging, etc.).
+### Semester 1
 
-The course page on [ARCHE](https://arche.univ-lorraine.fr/course/view.php?id=74531).
+- (fr) **Découverte du Traitement des Données Langagières (13.5h - tutorials)** - L2 MIASHS, IDMC (Nancy), Université de Lorraine.
+- (en) **Python Programming (6h - tutorials)** - M1 NLP, IDMC (Nancy), Université de Lorraine.
+- (en) **Ethics for NLP (6h - tutorials)** - M2 NLP, IDMC (Nancy), Université de Lorraine.
 
-## Semester 2
+### Semester 2
+- (fr) **Ingénierie de la langue (6h - tutorials)** - L3 MIASHS parcours TAL, IDMC (Nancy), Université de Lorraine.
+- (fr) **De l'écrit à l'information (1h - tutorials)** - L1 MIASHS, IDMC (Nancy), Université de Lorraine.
+- (en) **NLP for low-resource languages (8h - tutorials)** - M2 NLP, IDMC (Nancy), Université de Lorraine.
 
-## Occasional
-
-- Python Programming, M1 NLP, Institut des Sciences du Digital, Management et Cognition (IDMC), Université de Lorraine, Nancy. 4h (replacement).
